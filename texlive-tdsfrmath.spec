@@ -6,7 +6,7 @@
 # catalog-version 1.3
 Name:		texlive-tdsfrmath
 Version:	1.3
-Release:	9
+Release:	10
 Summary:	Macros for French teachers of mathematics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tdsfrmath
