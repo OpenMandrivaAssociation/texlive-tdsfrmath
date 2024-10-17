@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Macros for French teachers of mathematics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tdsfrmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tdsfrmath
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tdsfrmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tdsfrmath.doc.r%{version}.tar.xz
